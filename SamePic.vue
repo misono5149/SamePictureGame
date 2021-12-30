@@ -94,7 +94,7 @@ function scoreInit(){
 function setTable(){
       cards = [
         require('./assets/apeach.png').default, require('./assets/apeach.png').default,
-        require('./assets/conPic.png').default, require('./assets/con.png').default,
+        require('./assets/conPic.png').default, require('./assets/conPic.png').default,
         require('./assets/frodo.png').default, require('./assets/frodo.png').default,
         require('./assets/jayz.png').default, require('./assets/jayz.png').default,
         require('./assets/lion.png').default, require('./assets/lion.png').default,
